@@ -1,2 +1,2 @@
 # Tarefas
-Tarefas do curso Ford Enter.
+Tarefas do curso Ford <Enter>.
